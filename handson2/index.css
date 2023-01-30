@@ -1,0 +1,66 @@
+.flex-container {
+    display: flex;
+    display: inline-block;
+    background-color:green;
+
+  }
+  
+  .flex-container > div {
+    background-color: #33FFF9;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+    width: 100px;
+  }
+  .parent{
+    background-color: black;
+    color: white;
+    border: 5px solid red;
+    display: inline-block;
+    font-size: 60px;
+    padding: 20px;
+    border-radius: 25px;
+   
+
+  }
+  .parent1{
+    background-color: black;
+    color: white;
+    border: 5px solid red;
+    display: inline-block;
+    font-size: 60px;
+    padding: 20px;
+    border-radius: 25px;
+    margin-left: -200px;
+  }
+  .parent1 a{
+    color: white;
+    text-decoration: none;
+
+  }
+  .parent2{
+    background-color: black;
+    color: white;
+    border: 5px solid red;
+    display: inline-block;
+    font-size: 60px;
+    padding: 20px;
+    border-radius: 25px;
+    float: right;
+    margin-top: -200px;
+  }
+  .form1
+  {
+    border-style:dashed;
+    border: 5px solid red;
+    margin: 10px;
+    color: red;
+    font-size: 20px;
+    
+  }
+  .cirle{
+    border: 5px solid gray;
+    border-radius: 50px 50px 50px 50px;
+    background-color: green;
+    color: black;
+  }
